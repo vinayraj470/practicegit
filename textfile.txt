@@ -1,1 +1,2 @@
-Hi, this is vinay working on Git and Git hub 
+Hi, this is vinay working on Git and Git hub
+Modifications has been done to the file and reuploading to the github 
